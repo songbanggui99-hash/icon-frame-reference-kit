@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-06",
+  "method": "Self-built PNG-encoded ICO; parse directory, extract byte slices, Pillow decode; not a browser output test",
+  "rows": [
+    {
+      "size": 16,
+      "bytes": 97,
+      "matches": true,
+      "decoded": [
+        16,
+        16
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "size": 32,
+      "bytes": 125,
+      "matches": true,
+      "decoded": [
+        32,
+        32
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "size": 48,
+      "bytes": 154,
+      "matches": true,
+      "decoded": [
+        48,
+        48
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "size": 256,
+      "bytes": 622,
+      "matches": true,
+      "decoded": [
+        256,
+        256
+      ],
+      "mode": "RGBA"
+    }
+  ]
+}

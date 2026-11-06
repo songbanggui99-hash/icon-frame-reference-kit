@@ -1,0 +1,6 @@
+file,pixels,format,purpose
+favicon.ico,"16;32;48;64;128;256",ICO,multiple PNG-encoded entries
+apple-touch-icon.png,180,PNG,Apple touch icon
+android-chrome-192x192.png,192,PNG,manifest icon
+android-chrome-512x512.png,512,PNG,manifest icon
+maskable-icon-512x512.png,512,PNG,maskable safe-zone artwork
